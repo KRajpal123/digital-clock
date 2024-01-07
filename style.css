@@ -13,7 +13,7 @@ body {
   font-family: sans-serif;
 }
 h1{
-    text-transform: capitalize;
+    text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
     color: white;
